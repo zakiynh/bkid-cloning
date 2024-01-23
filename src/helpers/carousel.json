@@ -1,0 +1,20 @@
+{
+    "slides": [
+        {
+            "id": 1,
+            "imageUrl": "/images/caroussel-1"
+        },
+        {
+            "id": 2,
+            "imageUrl": "/images/caroussel-2"
+        },
+        {
+            "id": 3,
+            "imageUrl": "/images/caroussel-3"
+        },
+        {
+            "id": 4,
+            "imageUrl": "/images/caroussel-4"
+        }
+    ]
+}

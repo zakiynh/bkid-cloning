@@ -1,0 +1,126 @@
+{
+  "slides": [
+    {
+      "id": "1",
+      "imageUrl": "https://bkdelivery.co.id/media/slider_image/2023/11/15/wq6t8n4pyjrmgxkuko82gj.jpg"
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://bkdelivery.co.id/media/slider_image/2023/11/15/7hbbtsmdmyy2djhdtiqmxb.jpg"
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://bkdelivery.co.id/media/slider_image/2023/10/25/sqpdvobbwsqgefrvfj3asb.jpg"
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://bkdelivery.co.id/media/slider_image/2024/1/12/vym2tchnhmn7864ton9q54.jpg"
+    }
+  ],
+  "menus": [
+    {
+      "id": "1",
+      "name": "King Deals Box Cheesy Beef Burger Regular",
+      "recipe": "Cheesy Beef Burger + 1 pc Ayam Crispy + Nasi + Coke Regular",
+      "price": 40909,
+      "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/9/8/q9j5wwrfcisll8awjx35m2_product_details.jpg"
+    },
+    {
+      "id": "2",
+      "name": "King Deals Box Beef Burger Regular",
+      "recipe": "Beef Burger + 1pc Ayam Crispy + Nasi + Regular Coke",
+      "price": 40909,
+      "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/5/22/m79y2lmovpeggxgd7r8mxu_product_details.jpg"
+    },
+    {
+      "id": "3",
+      "name": "King Deals Box Chicken Burger Regular",
+      "recipe": "Chicken Burger + 1pc Ayam Crispy + Nasi + Regular Coke",
+      "price": 40909,
+      "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/5/22/4scvfkupjhb7djj3khydjv_product_details.jpg"
+    },
+    {
+      "id": "4",
+      "name": "King Fusion Nutella®",
+      "recipe": "Ice krim vanilla yang manis berpadu dengan saus coklat Nutella dan bertambur caramel crumble.",
+      "price": 16818,
+      "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/12/20/ap4pnwqvahk3tdssz8tj9b_product_details.jpg"
+    },
+    {
+      "id": "5",
+      "name": "King Fusion Cookies 'N Cream",
+      "recipe": "Ice cream vanilla yang lembut dipadukan dengan Cookies crumble",
+      "price": 12727,
+      "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/2/7/cub8dy8xwugeg7ngpunk8e_product_details.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Choco Pie",
+      "recipe": "Pie isi Coklat Double",
+      "price": 12727,
+      "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/a6rdershku6eykcuienknv_product_details.jpg"
+    },
+    {
+      "id": "7",
+      "name": "King Box Mexican Whopper® Medium",
+      "recipe": "Mexican Whopper® + 1Pcs Crispy Chicken + Rice + Coke Medium",
+      "price": 90909,
+      "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/10/19/4wc4m2zgsguga96npkrjb2_product_details.jpg"
+    },
+    {
+      "id": "8",
+      "name": "King Box Mexican Whopper® Jr Medium",
+      "recipe": "Mexican Whopper® Jr + 1Pcs Crispy Chicken + Rice + Coke Medium",
+      "price": 71819,
+      "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/10/19/d2ryukqnvloygsr53ozvmw_product_details.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Mexican Cheesy Fries",
+      "recipe": "French fries Burger King dengan topping mozzarella shared dan cheese sauce.",
+      "price": 23182,
+      "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/10/23/goxitn6lyodezew29ha5zp_product_details.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1",
+      "menuData": {
+        "name": "Mexican Cheesy Fries",
+        "price": 23182,
+        "quantity": 1,
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/10/23/goxitn6lyodezew29ha5zp_product_details.jpg"
+      }
+    },
+    {
+      "id": "463e",
+      "menuData": {
+        "name": "King Deals Box Beef Burger Regular",
+        "recipe": "Beef Burger + 1pc Ayam Crispy + Nasi + Regular Coke",
+        "price": 40909,
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/5/22/m79y2lmovpeggxgd7r8mxu_product_details.jpg",
+        "quantity": 5
+      }
+    },
+    {
+      "id": "11c0",
+      "menuData": {
+        "name": "Choco Pie",
+        "recipe": "Pie isi Coklat Double",
+        "price": 12727,
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/3/20/a6rdershku6eykcuienknv_product_details.jpg",
+        "quantity": 3
+      }
+    },
+    {
+      "id": "2ffe",
+      "menuData": {
+        "name": "King Deals Box Cheesy Beef Burger Regular",
+        "recipe": "Cheesy Beef Burger + 1 pc Ayam Crispy + Nasi + Coke Regular",
+        "price": 40909,
+        "imageUrl": "https://media-order.bkdelivery.co.id/thumb/product_photo/2023/9/8/q9j5wwrfcisll8awjx35m2_product_details.jpg",
+        "quantity": 5
+      }
+    }
+  ]
+}

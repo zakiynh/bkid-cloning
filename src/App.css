@@ -1,0 +1,224 @@
+@font-face {
+  font-family: "FlameRegular";
+  src: local("FlameRegular"),
+    url("../src/font/flame/FlameRegular.otf") format("opentype");
+}
+
+body {
+  background-image: url(../images/burgerking-bg.png);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.header-block {
+  background-color: #2d2d2d;
+  height: 80px;
+  font-size: 24px;
+}
+
+.nav-link {
+  margin-right: 32px;
+  color: white;
+}
+
+/* .cart {
+  background-color: #ed7801;
+  padding: 25px 25px;
+} */
+
+.navbar {
+  height: 85px;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand {
+  margin-top: 26px;
+  z-index: 1000;
+}
+
+.navbar-brand img {
+  width: 92px;
+}
+
+.nav-left {
+  font-family: "FlameRegular";
+}
+
+.custom-bottom {
+  margin-top: 15px;
+}
+
+.rounded-circle {
+  border-radius: 50%;
+  padding: 0;
+  border: none;
+  background-color: #ed7801;
+}
+
+.bg-dot-primary {
+  background-color: #ed7801;
+}
+
+.bg-dot-secondary {
+  background-color: #F1BC87;
+}
+
+.footer-block {
+  width: 100%;
+  background-color: #2d2d2d;
+  color: #fff;
+  padding: 12px 0;
+}
+
+.footer-content {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.footer-block .footer-content .title {
+  font-size: 20px;
+  font-family: "FlameRegular";  
+}
+
+/* Position the footer at the bottom */
+.footer-block {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  margin-top: 30px;
+}
+
+.icon-small {
+  font-size: small;
+}
+
+.title-footer {
+  font-family: "FlameRegular";
+  font-size: 15px;
+}
+
+.title-footer-end {
+  /* font-family: "FlameRegular"; */
+  font-size: 12px;
+  color: darkgrey;
+}
+
+.index {
+  margin-left: 154px;
+  margin-right: 154px;
+}
+
+.card {
+  border: none;
+  box-shadow: 2px 2px 15px -4px #6b6b6b;
+  width: 20rem;
+}
+
+.card .card-title {
+  font-family: "FlameRegular";
+  color: #8B542F;
+}
+
+.card img {
+  padding: 20px;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+}
+
+.menu-title {
+  font-family: "Flame Bold";
+  color: #8b542f;
+  font-weight: normal;
+  font-size: 32px;
+}
+
+.custom-height {
+  height: 100%;
+}
+
+.btn-primary-custom {
+  background-color: #ed7801;
+  border: none;
+  color: #fff; 
+  cursor: pointer;
+  font-family: "FlameRegular";
+  font-size: 16px; 
+  padding: 10px 20px; 
+  border-radius: 8px; 
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary-custom:hover {
+  background-color: #c56c00;
+  border-color: #c56c00;
+}
+
+.card-text {
+  font-family: "FlameRegular";
+  color: #8B542F;
+}
+
+.card-p {
+  font-family: "FlameRegular";
+  color: #000000;
+  font-size: 14px;
+}
+
+.card-price {
+  font-family: "FlameRegular";
+  color: #2d2d2d;
+  font-size: 25px;
+}
+
+.cart-popover {
+  width: 600px !important; /* Set the maximum width of the popover */
+}
+
+.cart-item {
+  justify-content: space-between;
+  margin-bottom: 10px;
+  width: 300px;
+}
+
+.cart-item-image {
+  width: 50px; 
+  height: 50px; 
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.cart-item-details {
+  justify-content: space-between;
+  width: 100%;
+}
+
+.cart-item-name {
+  font-weight: bold;
+  font-family: "FlameRegular";
+}
+
+.cart-item-quantity {
+  color: #555; 
+  font-family: "FlameRegular";
+}
+
+.subtotal-label {
+  font-family: "FlameRegular";
+  color: #2d2d2d;
+  margin-right: 8px;
+}
